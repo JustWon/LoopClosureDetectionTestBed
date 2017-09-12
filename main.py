@@ -7,7 +7,7 @@ import time
 EvalMethodFofDBoW3 = ['brisk','orb']
 EvalMethodFofDBoW2 = ['SURF','proposed method']
 ResultDir = '/home/dongwonshin/Desktop/LoopClosureDetectionTestBed/result_folder'
-ClusterCenter = 10
+ClusterCenter = 15
 DepthLevel = 5
 
 def configWritingForDBoW2(eval_method,eval_dataset):
@@ -69,9 +69,8 @@ if __name__ == '__main__':
 
     config = configparser.ConfigParser()
 
-    # eval_methods = ['SURF','proposed method','brisk','orb']
-    eval_methods = ['brisk','orb']
-    eval_datasets = ['KAIST_All_Day(North)'] # 'KAIST_All_Day(West)', 'KAIST_All_Day(East)', 'KAIST_All_Day(North)'
+    eval_methods = ['SURF','proposed method','brisk','orb']
+    eval_datasets = ['KAIST_All_Day(West)', 'KAIST_All_Day(East)','KAIST_All_Day(North)']
 
     for eval_method, eval_dataset in itertools.product(eval_methods, eval_datasets):
 
