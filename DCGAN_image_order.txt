@@ -1,274 +1,204 @@
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0295.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0297.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0299.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0308.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0350.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0351.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0352.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0353.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0354.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0355.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0384.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0385.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0389.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0390.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0391.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0392.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0393.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0394.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0395.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0400.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0401.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0525.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0527.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0528.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0530.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0531.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0532.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0535.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0536.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0537.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0538.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0539.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0540.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0541.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0543.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0544.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0545.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0547.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0701.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0702.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0703.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0704.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0705.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0706.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0707.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0709.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0748.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0749.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0750.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0853.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0939.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0940.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0941.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0942.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0943.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0944.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0945.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0946.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0947.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0948.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0949.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0950.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0951.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0952.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0953.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0954.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0955.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0956.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0957.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0958.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0959.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0960.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0961.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0962.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0963.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0964.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0965.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0985.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0986.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0987.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0988.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0989.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0990.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0991.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0992.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0993.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0994.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0995.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/0996.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1002.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1003.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1004.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1005.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1073.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1148.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1205.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1206.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1207.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1216.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1225.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1226.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1227.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1228.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1229.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1230.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1231.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1232.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1233.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1241.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1242.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1243.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1244.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1245.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1247.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1248.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1273.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1274.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1275.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1284.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1285.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1286.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1287.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1288.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1289.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1290.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1291.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1296.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1300.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1301.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1302.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1303.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1305.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1306.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1341.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1345.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1347.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1348.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1398.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1399.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1400.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1401.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1402.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1403.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1440.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1441.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1447.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1448.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1449.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1450.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1451.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1452.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1453.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1460.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1461.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1601.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1603.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1604.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1608.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1609.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1610.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1611.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1613.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1614.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1615.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1616.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1617.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1618.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1619.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1620.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1621.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1623.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1769.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1770.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1771.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1772.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1773.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1774.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1775.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1777.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1818.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1819.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1820.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/1929.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2017.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2018.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2019.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2020.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2021.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2022.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2023.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2024.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2025.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2026.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2027.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2028.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2029.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2030.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2031.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2032.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2033.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2034.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2035.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2036.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2037.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2038.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2039.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2040.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2041.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2042.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2043.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2063.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2064.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2065.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2066.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2067.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2068.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2069.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2070.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2071.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2072.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2073.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2074.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2080.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2081.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2082.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2083.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2149.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2222.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2283.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2284.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2285.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2294.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2303.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2304.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2305.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2306.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2307.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2308.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2310.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2311.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2312.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2313.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2319.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2320.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2321.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2322.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2323.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2325.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2326.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2353.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2354.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2355.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2362.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2363.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2364.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2365.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2366.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2367.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2368.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2369.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2374.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2378.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2379.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2380.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2381.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2382.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2423.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2425.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2427.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2428.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2439.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2448.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2450.desc
-/media/dongwonshin/Ubuntu Data/Datasets/FAB-MAP/Image Data/City Centre ManualLC/descs/all_desc/2452.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0000.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0001.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0002.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0003.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0004.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0005.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0006.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0007.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0008.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0009.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0010.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0011.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0012.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0013.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0014.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0015.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0016.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0017.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0018.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0019.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0020.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0021.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0022.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0023.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0024.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0025.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0026.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0027.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0028.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0029.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0030.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0031.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0032.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0033.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0034.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0035.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0036.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0037.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0038.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0039.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0040.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0041.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0042.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0043.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0044.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0045.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0046.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0047.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0048.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0049.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0050.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0051.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0052.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0053.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0054.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0055.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0056.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0057.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0058.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0059.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0060.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0061.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0062.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0063.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0064.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0065.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0066.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0067.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0068.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0069.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0070.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0071.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0072.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0073.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0074.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0075.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0076.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0077.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0078.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0079.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0080.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0081.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0082.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0083.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0084.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0085.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0086.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0087.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0088.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0089.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0090.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0091.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0092.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0093.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0094.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0095.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0096.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0097.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0098.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0099.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0100.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0101.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0102.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0103.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0104.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0105.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0106.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0107.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0108.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0109.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0110.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0111.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0112.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0113.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0114.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0115.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0116.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0117.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0118.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0119.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0120.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0121.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0122.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0123.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0124.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0125.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0126.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0127.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0128.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0129.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0130.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0131.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0132.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0133.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0134.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0135.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0136.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0137.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0138.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0139.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0140.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0141.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0142.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0143.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0144.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0145.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0146.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0147.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0148.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0149.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0150.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0151.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0152.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0153.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0154.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0155.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0156.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0157.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0158.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0159.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0160.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0161.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0162.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0163.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0164.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0165.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0166.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0167.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0168.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0169.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0170.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0171.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0172.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0173.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0174.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0175.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0176.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0177.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0178.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0179.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0180.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0181.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0182.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0183.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0184.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0185.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0186.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0187.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0188.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0189.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0190.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0191.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0192.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0193.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0194.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0195.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0196.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0197.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0198.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0199.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0200.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0201.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0202.desc
+/media/dongwonshin/Ubuntu Data/Datasets/KAIST_All_Day/Synced_Data/KAIST_All_Day(North)/descs/small_size/0203.desc
