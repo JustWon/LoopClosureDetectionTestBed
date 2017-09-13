@@ -7,17 +7,16 @@ import time
 EvalMethodFofDBoW3 = ['brisk','orb']
 EvalMethodFofDBoW2 = ['SURF','proposed method']
 ResultDir = '/home/dongwonshin/Desktop/LoopClosureDetectionTestBed/result_folder'
-ClusterCenter = 15
 DepthLevel = 5
 
-def configWritingForDBoW2(eval_method,eval_dataset):
+def configWritingForDBoW2(eval_method,eval_dataset, cluster_center):
     config['Experiment_parameters'] = {}
     config['Experiment_parameters']['eval_method'] = eval_method
     config['Experiment_parameters']['eval_dataset'] = eval_dataset
-    config['Experiment_parameters']['eval_desc'] = 'all_desc_512dim' # 'all_desc'
-    config['Experiment_parameters']['network_model'] = 'large-scale-training' #'bigger_feature_size'
+    config['Experiment_parameters']['eval_desc'] = 'all_desc_512dim' #'all_desc'
+    config['Experiment_parameters']['network_model'] = 'large-scale-training' # 'bigger_feature_size'
     config['Experiment_parameters']['scoring_type'] = 'L1_NORM'
-    config['Experiment_parameters']['cluster_center'] = str(ClusterCenter)
+    config['Experiment_parameters']['cluster_center'] = str(cluster_center)
     config['Experiment_parameters']['depth_level'] = str(DepthLevel)
     config['Experiment_parameters']['result_dir'] = ResultDir
 
@@ -25,12 +24,12 @@ def configWritingForDBoW2(eval_method,eval_dataset):
     with open(conf_file, 'w') as configfile:
         config.write(configfile)
 
-def configWritingForDBoW3(eval_method,eval_dataset):
+def configWritingForDBoW3(eval_method,eval_dataset, cluster_center):
     config['Experiment_parameters'] = {}
     config['Experiment_parameters']['eval_method'] = eval_method
     config['Experiment_parameters']['eval_dataset'] = eval_dataset
     config['Experiment_parameters']['scoring_type'] = 'L1_NORM'
-    config['Experiment_parameters']['cluster_center'] = str(ClusterCenter)
+    config['Experiment_parameters']['cluster_center'] = str(cluster_center)
     config['Experiment_parameters']['depth_level'] = str(DepthLevel)
     config['Experiment_parameters']['result_dir'] = ResultDir
 
@@ -39,12 +38,12 @@ def configWritingForDBoW3(eval_method,eval_dataset):
         config.write(configfile)
 
 
-def DBoW3Experiment(eval_method, eval_dataset):
-    configWritingForDBoW3(eval_method, eval_dataset)
+def DBoW3Experiment(eval_method, eval_dataset, cluster_center):
+    configWritingForDBoW3(eval_method, eval_dataset, cluster_center)
     os.system("/home/dongwonshin/Desktop/DBow3/build2/utils/demo_general")
 
-def DBoW2Experiment(eval_method, eval_dataset):
-    configWritingForDBoW2(eval_method, eval_dataset)
+def DBoW2Experiment(eval_method, eval_dataset, cluster_center):
+    configWritingForDBoW2(eval_method, eval_dataset, cluster_center)
     os.system("/home/dongwonshin/Desktop/DBoW2/build2/demo")
 
 
@@ -69,15 +68,18 @@ if __name__ == '__main__':
 
     config = configparser.ConfigParser()
 
-    eval_methods = ['SURF','proposed method','brisk','orb']
-    eval_datasets = ['KAIST_All_Day(West)', 'KAIST_All_Day(East)','KAIST_All_Day(North)']
+    # eval_methods = ['SURF','proposed method','brisk','orb']
+    cluster_centers = [10]
+    eval_methods = ['proposed method']
+    # eval_datasets = ['KAIST_All_Day(West)', 'KAIST_All_Day(East)','KAIST_All_Day(North)']
+    eval_datasets = ['New College']
 
-    for eval_method, eval_dataset in itertools.product(eval_methods, eval_datasets):
+    for eval_method, eval_dataset, cluster_center in itertools.product(eval_methods, eval_datasets,cluster_centers):
 
         if (eval_method in EvalMethodFofDBoW2):
-            DBoW2Experiment(eval_method, eval_dataset)
+            DBoW2Experiment(eval_method, eval_dataset, cluster_center)
 
         if (eval_method in EvalMethodFofDBoW3):
-            DBoW3Experiment(eval_method, eval_dataset)
+            DBoW3Experiment(eval_method, eval_dataset, cluster_center)
 
     EndHere()
