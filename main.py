@@ -13,8 +13,10 @@ def configWritingForDBoW2(eval_method,eval_dataset, cluster_center):
     config['Experiment_parameters'] = {}
     config['Experiment_parameters']['eval_method'] = eval_method
     config['Experiment_parameters']['eval_dataset'] = eval_dataset
-    config['Experiment_parameters']['eval_desc'] = 'all_desc_512dim' #'all_desc'
-    config['Experiment_parameters']['network_model'] = 'large-scale-training' # 'bigger_feature_size'
+    config['Experiment_parameters']['eval_desc'] = 'survey_final_512dim' #'all_desc'
+
+    # 'bigger_feature_size': 1024 , large-scale-training:512
+    config['Experiment_parameters']['network_model'] = 'large-scale-training'
     config['Experiment_parameters']['scoring_type'] = 'L1_NORM'
     config['Experiment_parameters']['cluster_center'] = str(cluster_center)
     config['Experiment_parameters']['depth_level'] = str(DepthLevel)
@@ -68,11 +70,10 @@ if __name__ == '__main__':
 
     config = configparser.ConfigParser()
 
-    # eval_methods = ['SURF','proposed method','brisk','orb']
-    cluster_centers = [10]
     eval_methods = ['proposed method']
+    cluster_centers = [10,5,15]
+    eval_datasets = ['City Centre','New College']
     # eval_datasets = ['KAIST_All_Day(West)', 'KAIST_All_Day(East)','KAIST_All_Day(North)']
-    eval_datasets = ['New College']
 
     for eval_method, eval_dataset, cluster_center in itertools.product(eval_methods, eval_datasets,cluster_centers):
 
