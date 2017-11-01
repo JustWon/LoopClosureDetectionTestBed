@@ -146,7 +146,7 @@ def intraExpPlot(exp_dict, testcases, GT_corr_mat):
 	plt.ylim([0.0, 1.05])
 	plt.xlim([0.0, 1.0])
 	plt.title('Precision-Recall curve')
-	plt.legend(loc="lower left", prop={'size':30})
+	plt.legend(loc="lower left", prop={'size':15})
 	plt.show()
 
 	print(DataFrame([ap_results], columns=ap_results.keys()))
@@ -186,7 +186,7 @@ def KAintraExpPlot(exp_dict,testcases, GT_corr_mat):
 	plt.ylim([0.0, 1.05])
 	plt.xlim([0.0, 1.0])
 	plt.title('Precision-Recall curve')
-	plt.legend(loc="lower left")
+	plt.legend(loc="lower left", prop={'size':15})
 	plt.show()
 
 	print(DataFrame([ap_results], columns=ap_results.keys()))
