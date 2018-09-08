@@ -115,7 +115,7 @@ def parameter_inspection(params, exp_dict):
     if (params['depth_level'] != str(exp_dict['depth_level'])):
         print('different depth level')
 
-def intraExpPlot(exp_dict, testcases, GT_corr_mat):
+def intraExpPlot(dataset_name, exp_dict, testcases, GT_corr_mat):
 	ap_results = {}
 
 	curve_results = []
@@ -129,15 +129,15 @@ def intraExpPlot(exp_dict, testcases, GT_corr_mat):
 	# Plot Precision-Recall curve
 	plt.figure(figsize=(10,7))
 	plt.clf()
-	for curve, color in zip(curve_results, ['red','green','black','blue','orange']):
+	for curve, marker in zip(curve_results, ['x-', 'o-', '^-', 'v-', 's-']):
 	    if (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'survey_final_512dim'):
-	        plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label='Ours (512dim)') 
+	        plt.plot(curve[0][1], curve[0][0], marker, markevery=20, lw=2, label='Ours (512dim)') 
 	        ap_results['Ours (512dim)'] = curve[0][2]
 	    elif (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'survey_final'):
-	         plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label='Ours (2048dim)')
+	         plt.plot(curve[0][1], curve[0][0],marker, markevery=20, lw=2, label='Ours (2048dim)')
 	         ap_results['Ours (2048dim)'] = curve[0][2]
 	    else:
-	        plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label=curve[1]['exp_method'].upper())
+	        plt.plot(curve[0][1], curve[0][0], marker, markevery=20,lw=2, label=curve[1]['exp_method'].upper())
 	        ap_results[curve[1]['exp_method'].upper()] = curve[0][2]
 	    
 
@@ -147,6 +147,7 @@ def intraExpPlot(exp_dict, testcases, GT_corr_mat):
 	plt.xlim([0.0, 1.0])
 	plt.title('Precision-Recall curve')
 	plt.legend(loc="lower left", prop={'size':15})
+	plt.savefig('Figures/%s K=%d, L=%d.eps' % (dataset_name, exp_dict['cluster_center'], exp_dict['depth_level']), format='eps', dpi=1000)
 	plt.show()
 
 	print(DataFrame([ap_results], columns=ap_results.keys()))
@@ -154,7 +155,7 @@ def intraExpPlot(exp_dict, testcases, GT_corr_mat):
 	return DataFrame([ap_results], columns=ap_results.keys())
 
 
-def KAintraExpPlot(exp_dict,testcases, GT_corr_mat):
+def KAintraExpPlot(dataset_name,exp_dict,testcases, GT_corr_mat):
 
 	ap_results = {}
 
@@ -169,16 +170,27 @@ def KAintraExpPlot(exp_dict,testcases, GT_corr_mat):
 	# Plot Precision-Recall curve
 	plt.figure(figsize=(10,7))
 	plt.clf()
-	for curve, color in zip(curve_results, ['red','green','black','blue','orange']):
-	    if (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'survey_final'):
-	        plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label='Ours (512dim)') 
-	        ap_results['Ours (512dim)'] = curve[0][2]
-	    elif (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'all_desc'):
-	         plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label='Ours (2048dim)')
-	         ap_results['Ours (2048dim)'] = curve[0][2]
-	    else:
-	        plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label=curve[1]['exp_method'].upper())
-	        ap_results[curve[1]['exp_method'].upper()] = curve[0][2]
+	# for curve, color in zip(curve_results, ['red','green','black','blue','orange']):
+	#     if (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'survey_final'):
+	#         plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label='Ours (512dim)') 
+	#         ap_results['Ours (512dim)'] = curve[0][2]
+	#     elif (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'all_desc'):
+	#          plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label='Ours (2048dim)')
+	#          ap_results['Ours (2048dim)'] = curve[0][2]
+	#     else:
+	#         plt.plot(curve[0][1], curve[0][0], lw=2, color=color, label=curve[1]['exp_method'].upper())
+	#         ap_results[curve[1]['exp_method'].upper()] = curve[0][2]
+	
+	for curve, marker in zip(curve_results, ['x-', 'o-', '^-', 'v-', 's-']):
+		if (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'survey_final'):
+			plt.plot(curve[0][1], curve[0][0], marker, markevery=20, lw=2, label='Ours (512dim)') 
+			ap_results['Ours (512dim)'] = curve[0][2]
+		elif (curve[1]['exp_method'] == 'proposed method' and curve[1]['eval_desc'] == 'all_desc'):
+			plt.plot(curve[0][1], curve[0][0], marker, markevery=20, lw=2, label='Ours (2048dim)')
+			ap_results['Ours (2048dim)'] = curve[0][2]
+		else:
+			plt.plot(curve[0][1], curve[0][0], marker, markevery=20, lw=2, label=curve[1]['exp_method'].upper())
+			ap_results[curve[1]['exp_method'].upper()] = curve[0][2]
 	    
 
 	plt.xlabel('Recall')
@@ -187,6 +199,7 @@ def KAintraExpPlot(exp_dict,testcases, GT_corr_mat):
 	plt.xlim([0.0, 1.0])
 	plt.title('Precision-Recall curve')
 	plt.legend(loc="lower left", prop={'size':15})
+	plt.savefig('Figures/%s K=%d, L=%d.eps' % (dataset_name, exp_dict['cluster_center'], exp_dict['depth_level']), format='eps', dpi=1000)
 	plt.show()
 
 	print(DataFrame([ap_results], columns=ap_results.keys()))
